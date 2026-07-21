@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="uglynums.vcxproj" Id="db8178df-2d10-4329-8b8f-037e3976a884" />
+</Solution>
